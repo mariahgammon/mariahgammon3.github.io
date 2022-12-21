@@ -3,7 +3,7 @@ title: "Work Related Projects"
 draft: false
 featured_image: ![Erie Insurance Building]("/images/erieinsurancebuilding.jpg")
 ---
-![Erie Insurance Logo](/erieinsurancelogo.png)
+![Erie Insurance Logo](/static/erieinsurancelogo.png)
 
 
 **Erie Insurance:**
