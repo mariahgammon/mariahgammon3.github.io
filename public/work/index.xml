@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on Mariah Gammon</title>
+    <link>http://mariahgammon.org/work/</link>
+    <description>Recent content in Works on Mariah Gammon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://mariahgammon.org/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Work Related Projects</title>
+      <link>http://mariahgammon.org/work/workexperience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mariahgammon.org/work/workexperience/</guid>
+      <description>Erie Insurance:
+At Erie Insurance this past summer, I worked as a Data Intern in the Treasury Department. The people that I worked with were helpful and welcoming. Through this opportunity, I learned how to work in a professional environment: utilizing programs such as Qlik and SAS to complete a bad debt project, collaborating with other interns on projects, and presenting my work in front of leadership. I would love to be able to continue working in a more marketing focused position to be able to gain a wider variety of experience.</description>
+    </item>
+    
+  </channel>
+</rss>

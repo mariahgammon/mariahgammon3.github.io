@@ -1,0 +1,21 @@
+baseURL = 'http://mariahgammon.org/'
+languageCode = 'en-us'
+title = 'Mariah Gammon'
+theme = 'ananke'
+featured_image = '![erie](/IMG_6307.jpg)'
+
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+ 
+[params]
+  body_classes = "georgia bg-lightest-blue"
+  post_content_classes = "georgia bg-transparent"
+
+
+[[params.ananke_socials]]
+name = "LinkedIn"
+url = "www.linkedin.com/in/mariah-gammon-1223aa228"
