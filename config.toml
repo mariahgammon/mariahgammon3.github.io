@@ -1,9 +1,10 @@
-baseURL = 'http://mariahgammon.org/'
+baseURL = 'https://mariahgammon.github.io/mariahgammon3.github.io/'
 languageCode = 'en-us'
 title = 'Mariah Gammon'
 theme = 'ananke'
 publishDir = "docs"
 featured_image = '![erie](/IMG_6307.jpg)'
+
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"

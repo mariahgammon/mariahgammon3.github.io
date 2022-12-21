@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Mes on Mariah Gammon</title>
-    <link>http://mariahgammon.org/about-me/</link>
+    <link>https://mariahgammon.github.io/mariahgammon3.github.io/about-me/</link>
     <description>Recent content in About Mes on Mariah Gammon</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://mariahgammon.org/about-me/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://mariahgammon.github.io/mariahgammon3.github.io/about-me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>http://mariahgammon.org/about-me/my-first-post/</link>
+      <link>https://mariahgammon.github.io/mariahgammon3.github.io/about-me/my-first-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://mariahgammon.org/about-me/my-first-post/</guid>
+      <guid>https://mariahgammon.github.io/mariahgammon3.github.io/about-me/my-first-post/</guid>
       <description>I am a junior at Allegheny College studying Integrative Informatics with a minor in Writing.
 Integrative Informatics basically teaches you to be able to communicate data effectively with a focus in a specific field, which in my case is Marketing. I take core courses in computer science, communication, and media classes, as well as a variety of Marketing classes. I am able to use this combination of knowledge to analyze data and make effective and progressive decisions.</description>
     </item>

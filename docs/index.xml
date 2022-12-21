@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mariah Gammon</title>
-    <link>http://mariahgammon.org/</link>
+    <link>https://mariahgammon.github.io/mariahgammon3.github.io/</link>
     <description>Recent content on Mariah Gammon</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://mariahgammon.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://mariahgammon.github.io/mariahgammon3.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>http://mariahgammon.org/about-me/my-first-post/</link>
+      <link>https://mariahgammon.github.io/mariahgammon3.github.io/about-me/my-first-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://mariahgammon.org/about-me/my-first-post/</guid>
+      <guid>https://mariahgammon.github.io/mariahgammon3.github.io/about-me/my-first-post/</guid>
       <description>I am a junior at Allegheny College studying Integrative Informatics with a minor in Writing.
 Integrative Informatics basically teaches you to be able to communicate data effectively with a focus in a specific field, which in my case is Marketing. I take core courses in computer science, communication, and media classes, as well as a variety of Marketing classes. I am able to use this combination of knowledge to analyze data and make effective and progressive decisions.</description>
     </item>
     
     <item>
       <title>Professional Documents</title>
-      <link>http://mariahgammon.org/professionaldocuments/professionaldocuments/</link>
+      <link>https://mariahgammon.github.io/mariahgammon3.github.io/professionaldocuments/professionaldocuments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://mariahgammon.org/professionaldocuments/professionaldocuments/</guid>
+      <guid>https://mariahgammon.github.io/mariahgammon3.github.io/professionaldocuments/professionaldocuments/</guid>
       <description>This is my resume. This is my cover letter. This is my Infographic Resume. </description>
     </item>
     
     <item>
       <title>School Projects</title>
-      <link>http://mariahgammon.org/school/schoolprojects/</link>
+      <link>https://mariahgammon.github.io/mariahgammon3.github.io/school/schoolprojects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://mariahgammon.org/school/schoolprojects/</guid>
+      <guid>https://mariahgammon.github.io/mariahgammon3.github.io/school/schoolprojects/</guid>
       <description>Here are some school projects that I have worked on.
 Project 1: Photoshop
 This project was done in my Electronic Art class. I utilized photoshop to create a visualization of ways to communicate with animals.
@@ -40,10 +40,10 @@ This project was also done in Electronic Art. I created a new emoji that I think
     
     <item>
       <title>Work Related Projects</title>
-      <link>http://mariahgammon.org/work/workexperience/</link>
+      <link>https://mariahgammon.github.io/mariahgammon3.github.io/work/workexperience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://mariahgammon.org/work/workexperience/</guid>
+      <guid>https://mariahgammon.github.io/mariahgammon3.github.io/work/workexperience/</guid>
       <description>Erie Insurance:
 At Erie Insurance this past summer, I worked as a Data Intern in the Treasury Department. The people that I worked with were helpful and welcoming. Through this opportunity, I learned how to work in a professional environment: utilizing programs such as Qlik and SAS to complete a bad debt project, collaborating with other interns on projects, and presenting my work in front of leadership. I would love to be able to continue working in a more marketing focused position to be able to gain a wider variety of experience.</description>
     </item>
