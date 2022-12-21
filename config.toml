@@ -2,6 +2,7 @@ baseURL = 'http://mariahgammon.org/'
 languageCode = 'en-us'
 title = 'Mariah Gammon'
 theme = 'ananke'
+publishDir = "docs"
 featured_image = '![erie](/IMG_6307.jpg)'
 
 
