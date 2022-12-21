@@ -5,6 +5,7 @@ theme = 'ananke'
 publishDir = "docs"
 featured_image = '![erie](/IMG_6307.jpg)'
 
+theme: minima
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
