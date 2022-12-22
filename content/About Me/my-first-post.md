@@ -20,4 +20,4 @@ At Allegheny College, I have developed skills that are important to thrive in a 
 
 Being involved in organizations, on top of my coursework, has helped to strengthen my work ethic and time management skills, as well as the leadership and volunteer experience these organizations give me independently. As a sister of Delta Delta Delta, I am part of a team that must meet and work together to make decisions and plan for new projects.
 
-![About Me](/static/images/aboutme.jpg)
+![About Me](/docs/assets/aboutme.jpg)
